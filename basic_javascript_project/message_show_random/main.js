@@ -29,9 +29,6 @@ function displayQuote(){
             // console.log(number);
             quoteAuthor.innerHTML = quotes[number].name;
             quote.innerHTML = quotes[number].quote;
-
-
-            
 }
  //console.log(quotes);
  
